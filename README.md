@@ -35,7 +35,7 @@ A full-stack blog platform built with Next.js for the frontend and Node.js with 
 
 ## Folder Structure
 
-``
+````
 Blog-Platform/
 ├── backend/
 │   ├── src/
@@ -57,7 +57,7 @@ Blog-Platform/
 │   ├── package.json
 ├── README.md
 
-``
+````
 
 ## Prerequisites
 
