@@ -1,7 +1,3 @@
-Sure! Here's a **download-ready README.md** file for your Blog Platform project with exactly the content you provided, formatted properly in Markdown so you can just save it as `README.md` and include it in your repo or zip:
-
----
-
 ```markdown
 # Blog Platform
 
