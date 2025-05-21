@@ -1,4 +1,3 @@
-```markdown
 # Blog Platform
 
 A full-stack blog platform built with Next.js for the frontend and Node.js with Apollo Server and MongoDB for the backend. The application allows users to create, view, and delete blog posts using a GraphQL API. This project uses a local MongoDB instance for the database.
