@@ -121,13 +121,6 @@ cd blog-frontend
 npm install next react react-dom @apollo/client graphql
 ```
 
-3. (Optional) If using Tailwind CSS, install and configure it:
-
-```bash
-npm install tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-```
-
 Add Tailwind directives to `styles/globals.css`:
 
 ```css
@@ -209,15 +202,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-You can **copy-paste** the above content into a `README.md` file and include it in your project folder.
-
-If you want, I can also prepare the full project folder structure or any specific file next. Just let me know!
-```
