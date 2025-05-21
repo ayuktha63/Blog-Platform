@@ -84,7 +84,6 @@ export default function Home() {
             </li>
           ))}
         </ul>
-
         {modalOpen && (
           <div className="fixed inset-0 bg-white bg-opacity-50 flex items-center justify-center z-50 transition-opacity duration-300">
             <div className="bg-white rounded-2xl p-8 w-full max-w-lg shadow-2xl transform transition-all duration-300 scale-100">
